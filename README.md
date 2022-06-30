@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/000/271/024/original/vector-web-development-web-banner.jpg)
+![MasterHead](https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif)
 <h1 align="center">Hi 👋, I'm Sahil Shekh</h1>
 <h3 align="center">Student at Masai School🌟.</h3>
 
