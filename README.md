@@ -1,4 +1,4 @@
-![MasterHead](https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif)
+
 <h1 align="center">Hi 👋, I'm Sahil Shekh</h1>
 <h3 align="center">Student at Masai School🌟.</h3>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilshekh" alt="sahilshekh" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
+
 
 <p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="adam-pw" width="250" height="250" /></p>
 
